@@ -2,8 +2,8 @@
 
 ## Docs
 
--   [react](docs/react.md)
+- [react](docs/react.md)
 
 ## Sources
 
--   https://www.taniarascia.com/getting-started-with-react/
+- https://www.taniarascia.com/getting-started-with-react/
